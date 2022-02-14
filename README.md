@@ -21,6 +21,8 @@ Hint command: when used, computer computes the best combination for you current 
 
 Auto-correct: input does not have to be typed out entirely, program can detect and make sense of what users mean if a match can be found. For example, "dr" will be recognized as "drop" command.
 
+4 different levels with different difficulties, user can also choose random or give a seed for the sequence of types of blocks that will be next (ex. sequence.txt = "I" will only allow I blocks to appear)
+
 the TX.[in|args] were used as tests inputs and arguments to detect any memory leak, segmentation faults, etc.
 
 The follow are some combination of features:
